@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 &nbsp;    
 &nbsp;   
