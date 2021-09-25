@@ -1,4 +1,4 @@
->TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
