@@ -1,4 +1,4 @@
->Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
