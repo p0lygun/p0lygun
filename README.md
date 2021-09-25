@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
