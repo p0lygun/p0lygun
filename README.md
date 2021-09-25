@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
 ***
 &nbsp;    
 &nbsp;   
