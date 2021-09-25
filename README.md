@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 &nbsp;    
 &nbsp;   
