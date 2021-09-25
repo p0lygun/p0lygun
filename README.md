@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
