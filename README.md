@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
