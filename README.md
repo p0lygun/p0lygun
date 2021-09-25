@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
