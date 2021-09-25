@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
 ***
 &nbsp;    
 &nbsp;   
