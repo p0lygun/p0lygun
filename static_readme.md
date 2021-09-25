@@ -12,4 +12,8 @@
 &nbsp;   
 &nbsp;  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=wallpaper-engine&theme=highcontrast)](https://github.com/p0lygun/wallpaper-engine)&nbsp;  &nbsp;   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=tiles&theme=highcontrast)](https://github.com/p0lygun/tiles)
+&nbsp;   
+&nbsp;   
+&nbsp;   
 
+<img src="https://placeimg.com/1000/100/tech">
