@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 &nbsp;    
 &nbsp;   
@@ -12,4 +12,8 @@
 &nbsp;   
 &nbsp;  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=wallpaper-engine&theme=highcontrast)](https://github.com/p0lygun/wallpaper-engine)&nbsp;  &nbsp;   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=tiles&theme=highcontrast)](https://github.com/p0lygun/tiles)
+&nbsp;   
+&nbsp;   
+&nbsp;   
 
+<img src="https://placeimg.com/1000/100/tech">
