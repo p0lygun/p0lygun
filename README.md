@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
