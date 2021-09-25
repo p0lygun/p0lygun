@@ -16,4 +16,3 @@
 &nbsp;   
 &nbsp;   
 
-<img src="https://placeimg.com/1000/100/tech">
