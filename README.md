@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
