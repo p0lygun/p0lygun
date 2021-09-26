@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
