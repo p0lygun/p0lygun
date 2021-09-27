@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 &nbsp;    
 &nbsp;   
