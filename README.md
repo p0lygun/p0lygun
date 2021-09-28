@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
