@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 &nbsp;    
 &nbsp;   
