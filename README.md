@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
