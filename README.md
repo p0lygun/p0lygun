@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
