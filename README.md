@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
