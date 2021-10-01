@@ -1,4 +1,4 @@
->If you can't explain it simply, you don't understand it well enough. -Albert Einstein
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
