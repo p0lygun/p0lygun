@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 &nbsp;    
 &nbsp;   
