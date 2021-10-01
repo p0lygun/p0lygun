@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>It’s supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 &nbsp;    
 &nbsp;   
