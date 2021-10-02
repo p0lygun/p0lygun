@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
