@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
