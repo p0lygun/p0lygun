@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
