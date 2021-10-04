@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
