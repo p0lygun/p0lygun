@@ -1,4 +1,4 @@
->Technology is anything that wasn’t around when you were born. -Man Ray
+>Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
 ***
 &nbsp;    
 &nbsp;   
