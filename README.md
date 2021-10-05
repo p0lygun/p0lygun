@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
