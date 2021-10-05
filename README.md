@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
