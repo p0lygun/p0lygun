@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 &nbsp;    
 &nbsp;   
