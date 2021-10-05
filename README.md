@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 &nbsp;    
 &nbsp;   
