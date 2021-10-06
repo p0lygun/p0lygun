@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
 ***
 &nbsp;    
 &nbsp;   
