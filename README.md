@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
