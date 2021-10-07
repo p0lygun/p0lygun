@@ -1,4 +1,4 @@
->Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
