@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
