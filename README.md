@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>It’s supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 &nbsp;    
 &nbsp;   
