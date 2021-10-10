@@ -1,4 +1,4 @@
->The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
