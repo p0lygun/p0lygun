@@ -1,4 +1,4 @@
->Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them. -Steve Jobs
+>It’s supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 &nbsp;    
 &nbsp;   
