@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
 ***
 &nbsp;    
 &nbsp;   
