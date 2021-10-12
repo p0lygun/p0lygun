@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
