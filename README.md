@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
 ***
 &nbsp;    
 &nbsp;   
