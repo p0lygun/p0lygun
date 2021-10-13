@@ -1,4 +1,4 @@
->Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 &nbsp;    
 &nbsp;   
