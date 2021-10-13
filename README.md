@@ -1,4 +1,4 @@
->If you can't explain it simply, you don't understand it well enough. -Albert Einstein
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
