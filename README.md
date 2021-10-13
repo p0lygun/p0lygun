@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
