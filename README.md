@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
