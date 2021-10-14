@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
