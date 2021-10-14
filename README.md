@@ -1,4 +1,4 @@
->Technology is anything that wasn’t around when you were born. -Man Ray
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 &nbsp;    
 &nbsp;   
