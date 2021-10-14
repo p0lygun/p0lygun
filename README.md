@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 &nbsp;    
 &nbsp;   
