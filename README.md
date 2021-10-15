@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
