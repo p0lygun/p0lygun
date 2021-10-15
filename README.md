@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
