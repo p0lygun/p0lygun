@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
