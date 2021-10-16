@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
