@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 &nbsp;    
 &nbsp;   
