@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 &nbsp;    
 &nbsp;   
