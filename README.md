@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
