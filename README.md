@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
