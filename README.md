@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
 ***
 &nbsp;    
 &nbsp;   
