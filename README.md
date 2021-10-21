@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
