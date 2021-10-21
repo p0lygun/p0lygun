@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
