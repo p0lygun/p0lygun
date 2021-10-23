@@ -1,4 +1,4 @@
->The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
+>Technology is a word that describes something that doesn’t work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
