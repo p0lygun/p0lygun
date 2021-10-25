@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 &nbsp;    
 &nbsp;   
