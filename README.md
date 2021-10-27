@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn’t work yet. -Douglas Adams
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 &nbsp;    
 &nbsp;   
