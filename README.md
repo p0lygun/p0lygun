@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 &nbsp;    
 &nbsp;   
