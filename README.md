@@ -1,4 +1,4 @@
->Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
