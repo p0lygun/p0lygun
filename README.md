@@ -1,4 +1,4 @@
->The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
+>Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
 ***
 &nbsp;    
 &nbsp;   
