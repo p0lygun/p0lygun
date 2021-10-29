@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
