@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 &nbsp;    
 &nbsp;   
