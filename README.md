@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
