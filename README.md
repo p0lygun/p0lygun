@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
