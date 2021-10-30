@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
