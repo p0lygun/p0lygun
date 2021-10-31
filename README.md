@@ -1,4 +1,4 @@
->Technology is anything that wasn’t around when you were born. -Man Ray
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
