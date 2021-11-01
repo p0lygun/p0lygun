@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Technology is a word that describes something that doesn’t work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
