@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
