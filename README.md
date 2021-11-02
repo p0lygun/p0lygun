@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
