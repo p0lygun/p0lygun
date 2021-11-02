@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
