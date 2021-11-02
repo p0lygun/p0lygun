@@ -1,4 +1,4 @@
->Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
