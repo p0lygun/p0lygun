@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
