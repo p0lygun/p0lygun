@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn’t work yet. -Douglas Adams
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
