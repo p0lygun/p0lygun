@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 &nbsp;    
 &nbsp;   
