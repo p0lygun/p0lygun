@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
 ***
 &nbsp;    
 &nbsp;   
