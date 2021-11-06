@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 &nbsp;    
 &nbsp;   
