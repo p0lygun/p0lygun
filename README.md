@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 &nbsp;    
 &nbsp;   
