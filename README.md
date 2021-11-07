@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
