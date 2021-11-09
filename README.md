@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 &nbsp;    
 &nbsp;   
