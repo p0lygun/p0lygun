@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
