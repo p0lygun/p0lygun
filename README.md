@@ -1,4 +1,4 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>Technology is a word that describes something that doesn’t work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
