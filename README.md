@@ -1,4 +1,4 @@
->Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
