@@ -1,4 +1,4 @@
->TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
