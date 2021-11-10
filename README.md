@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>Technology is a word that describes something that doesn’t work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
