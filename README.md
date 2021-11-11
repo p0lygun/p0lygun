@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
