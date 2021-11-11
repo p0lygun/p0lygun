@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 &nbsp;    
 &nbsp;   
