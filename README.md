@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
