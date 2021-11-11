@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
