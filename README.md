@@ -1,4 +1,4 @@
->Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
+>Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
 ***
 &nbsp;    
 &nbsp;   
