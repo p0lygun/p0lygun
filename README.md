@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
