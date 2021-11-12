@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
 ***
 &nbsp;    
 &nbsp;   
