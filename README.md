@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
