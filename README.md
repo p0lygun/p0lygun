@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 &nbsp;    
 &nbsp;   
