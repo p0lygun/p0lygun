@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 &nbsp;    
 &nbsp;   
