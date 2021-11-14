@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
 ***
 &nbsp;    
 &nbsp;   
