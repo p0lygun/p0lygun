@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
