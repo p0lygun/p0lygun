@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
