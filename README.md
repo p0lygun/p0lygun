@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
