@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
 ***
 &nbsp;    
 &nbsp;   
