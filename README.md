@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
 ***
 &nbsp;    
 &nbsp;   
