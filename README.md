@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 &nbsp;    
 &nbsp;   
