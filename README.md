@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
 ***
 &nbsp;    
 &nbsp;   
