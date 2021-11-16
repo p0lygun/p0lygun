@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
