@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
