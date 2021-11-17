@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 &nbsp;    
 &nbsp;   
@@ -14,5 +14,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=wallpaper-engine&theme=highcontrast)](https://github.com/p0lygun/wallpaper-engine)&nbsp;  &nbsp;   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=tiles&theme=highcontrast)](https://github.com/p0lygun/tiles)
 &nbsp;   
 &nbsp;   
-&nbsp;   
+&nbsp;  
+[gala#8316]() on Discord 
 
