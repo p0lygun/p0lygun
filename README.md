@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 &nbsp;    
 &nbsp;   
