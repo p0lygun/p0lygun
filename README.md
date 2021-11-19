@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
