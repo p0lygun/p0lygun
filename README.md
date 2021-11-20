@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
