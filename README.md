@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
 ***
 &nbsp;    
 &nbsp;   
