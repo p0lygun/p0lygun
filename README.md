@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn’t work yet. -Douglas Adams
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
