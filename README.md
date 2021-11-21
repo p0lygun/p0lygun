@@ -1,4 +1,4 @@
->Technology is anything that wasn’t around when you were born. -Man Ray
+>Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
 ***
 &nbsp;    
 &nbsp;   
