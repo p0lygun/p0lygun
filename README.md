@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
