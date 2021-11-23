@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
 ***
 &nbsp;    
 &nbsp;   
