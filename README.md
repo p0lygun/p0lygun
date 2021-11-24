@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 &nbsp;    
 &nbsp;   
