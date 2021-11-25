@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
