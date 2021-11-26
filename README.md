@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 &nbsp;    
 &nbsp;   
