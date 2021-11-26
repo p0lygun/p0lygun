@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Ethics change with technology. -Larry Niven
 ***
 &nbsp;    
 &nbsp;   
