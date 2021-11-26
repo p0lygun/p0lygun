@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>It’s supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 &nbsp;    
 &nbsp;   
