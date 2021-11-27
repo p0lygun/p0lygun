@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 &nbsp;    
 &nbsp;   
