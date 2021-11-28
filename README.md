@@ -1,4 +1,4 @@
->Technology is teaching us to be human again. -Simon Mainwaring
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 &nbsp;    
 &nbsp;   
