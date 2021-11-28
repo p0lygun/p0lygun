@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
