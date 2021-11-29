@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
