@@ -1,4 +1,4 @@
->Technology is anything that wasn’t around when you were born. -Man Ray
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
