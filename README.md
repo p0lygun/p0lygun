@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 &nbsp;    
 &nbsp;   
