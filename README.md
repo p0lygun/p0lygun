@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 &nbsp;    
 &nbsp;   
