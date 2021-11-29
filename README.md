@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
