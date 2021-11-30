@@ -1,4 +1,4 @@
->Technology is teaching us to be human again. -Simon Mainwaring
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
