@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
