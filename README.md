@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 &nbsp;    
 &nbsp;   
