@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
 ***
 &nbsp;    
 &nbsp;   
