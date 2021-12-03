@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
 ***
 &nbsp;    
 &nbsp;   
