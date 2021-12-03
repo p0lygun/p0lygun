@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
