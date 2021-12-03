@@ -1,4 +1,4 @@
->Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
