@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
 ***
 &nbsp;    
 &nbsp;   
