@@ -1,4 +1,4 @@
->Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 &nbsp;    
 &nbsp;   
