@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
