@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
