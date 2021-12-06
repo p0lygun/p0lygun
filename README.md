@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
