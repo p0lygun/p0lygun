@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 &nbsp;    
 &nbsp;   
