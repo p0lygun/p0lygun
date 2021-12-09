@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
