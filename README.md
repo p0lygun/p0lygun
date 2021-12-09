@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road. -Stewart Brand
 ***
 &nbsp;    
 &nbsp;   
