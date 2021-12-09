@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 &nbsp;    
 &nbsp;   
