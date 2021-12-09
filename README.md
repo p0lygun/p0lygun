@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
