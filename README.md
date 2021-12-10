@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 &nbsp;    
 &nbsp;   
