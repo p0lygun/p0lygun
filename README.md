@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 &nbsp;    
 &nbsp;   
