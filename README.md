@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 &nbsp;    
 &nbsp;   
