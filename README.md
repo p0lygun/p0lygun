@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
