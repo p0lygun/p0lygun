@@ -1,4 +1,4 @@
->Technology is teaching us to be human again. -Simon Mainwaring
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
