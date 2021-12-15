@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
