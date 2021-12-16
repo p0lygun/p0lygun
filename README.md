@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
