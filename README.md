@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 &nbsp;    
 &nbsp;   
