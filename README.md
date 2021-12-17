@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 &nbsp;    
 &nbsp;   
