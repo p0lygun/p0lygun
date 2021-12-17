@@ -1,4 +1,4 @@
->Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
