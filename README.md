@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
