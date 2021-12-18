@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 &nbsp;    
 &nbsp;   
