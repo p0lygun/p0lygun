@@ -1,4 +1,4 @@
->Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
