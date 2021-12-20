@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Communications tools don’t get socially interesting until they get technologically boring. -Clay Shirky
 ***
 &nbsp;    
 &nbsp;   
