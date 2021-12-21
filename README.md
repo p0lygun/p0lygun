@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
