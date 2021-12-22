@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
