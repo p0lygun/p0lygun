@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
