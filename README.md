@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
