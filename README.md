@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
