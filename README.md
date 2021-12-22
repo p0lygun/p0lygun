@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
 ***
 &nbsp;    
 &nbsp;   
