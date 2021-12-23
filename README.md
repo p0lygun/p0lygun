@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
