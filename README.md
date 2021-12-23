@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
