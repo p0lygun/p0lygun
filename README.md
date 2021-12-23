@@ -1,4 +1,4 @@
->Just because something doesn’t do what you planned it to do doesn’t mean it’s useless. -Thomas Edison
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
