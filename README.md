@@ -1,4 +1,4 @@
->Technology presumes there’s just one right way to do things and there never is. -Robert M. Pirsig
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
