@@ -1,4 +1,4 @@
->If you can't explain it simply, you don't understand it well enough. -Albert Einstein
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
