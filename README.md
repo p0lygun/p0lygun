@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 &nbsp;    
 &nbsp;   
