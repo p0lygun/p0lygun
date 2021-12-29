@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 &nbsp;    
 &nbsp;   
