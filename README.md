@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 &nbsp;    
 &nbsp;   
