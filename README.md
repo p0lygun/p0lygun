@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
