@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
