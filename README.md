@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
