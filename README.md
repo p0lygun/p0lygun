@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 &nbsp;    
 &nbsp;   
