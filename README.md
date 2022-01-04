@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 &nbsp;    
 &nbsp;   
