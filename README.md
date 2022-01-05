@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 &nbsp;    
 &nbsp;   
