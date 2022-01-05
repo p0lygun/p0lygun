@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>Technology… the knack of so arranging the world that we don’t have to experience it. -Max Frisch
 ***
 &nbsp;    
 &nbsp;   
