@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>It’s supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 &nbsp;    
 &nbsp;   
