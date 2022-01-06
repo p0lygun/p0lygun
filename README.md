@@ -1,4 +1,4 @@
->It’s supposed to be automatic, but actually you have to push this button. -John Brunner
+>Technology is anything that wasn’t around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
