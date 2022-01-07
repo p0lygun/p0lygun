@@ -1,4 +1,4 @@
->So much technology, so little talent. -Vernor Vinge
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
