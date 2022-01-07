@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
