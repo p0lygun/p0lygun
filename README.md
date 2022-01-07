@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn't work yet. -Douglas Adams
+>So much technology, so little talent. -Vernor Vinge
 ***
 &nbsp;    
 &nbsp;   
