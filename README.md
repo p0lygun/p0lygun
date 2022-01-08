@@ -1,4 +1,4 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 &nbsp;    
 &nbsp;   
