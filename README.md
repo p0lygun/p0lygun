@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 &nbsp;    
 &nbsp;   
