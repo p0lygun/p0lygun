@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn't work yet. -Douglas Adams
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 &nbsp;    
 &nbsp;   
