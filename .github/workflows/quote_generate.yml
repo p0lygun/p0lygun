@@ -3,7 +3,7 @@ name: programming quotes generator
 on:
   # Run workflow based on specific schedule
   schedule:
-    - cron: "* 23 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
