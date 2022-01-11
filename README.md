@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer. -James Gleick
 ***
 &nbsp;    
 &nbsp;   
@@ -11,7 +11,7 @@
 &nbsp;   
 &nbsp;   
 &nbsp;  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=wallpaper-engine&theme=highcontrast)](https://github.com/p0lygun/wallpaper-engine)&nbsp;  &nbsp;   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=tiles&theme=highcontrast)](https://github.com/p0lygun/tiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=wallpaper-engine&theme=highcontrast)](https://github.com/p0lygun/wallpaper-engine)&nbsp;  &nbsp;   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p0lygun&repo=portal_helper&theme=highcontrast)](https://github.com/p0lygun/portal_helper)
 &nbsp;   
 &nbsp;   
 &nbsp;  
