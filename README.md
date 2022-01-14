@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>Technology is anything that wasn't around when you were born. -Man Ray
 ***
 &nbsp;    
 &nbsp;   
