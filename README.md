@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 &nbsp;    
 &nbsp;   
