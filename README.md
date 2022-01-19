@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 &nbsp;    
 &nbsp;   
