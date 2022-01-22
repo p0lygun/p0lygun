@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
