@@ -1,4 +1,4 @@
->Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 &nbsp;    
 &nbsp;   
