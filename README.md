@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 &nbsp;    
 &nbsp;   
