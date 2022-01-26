@@ -1,4 +1,4 @@
->Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
+>Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
 ***
 &nbsp;    
 &nbsp;   
