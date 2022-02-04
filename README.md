@@ -1,4 +1,4 @@
->Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
