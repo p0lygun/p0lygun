@@ -1,4 +1,4 @@
->Technology is anything that wasn't around when you were born. -Man Ray
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 &nbsp;    
 &nbsp;   
