@@ -1,4 +1,4 @@
->It's supposed to be automatic, but actually you have to push this button. -John Brunner
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
