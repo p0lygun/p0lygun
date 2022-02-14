@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
 ***
 &nbsp;    
 &nbsp;   
