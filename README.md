@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 &nbsp;    
 &nbsp;   
