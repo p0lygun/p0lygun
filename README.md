@@ -1,4 +1,4 @@
->Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 &nbsp;    
 &nbsp;   
