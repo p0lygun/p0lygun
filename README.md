@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 &nbsp;    
 &nbsp;   
