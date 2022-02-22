@@ -1,4 +1,4 @@
->It's supposed to be automatic, but actually you have to push this button. -John Brunner
+>Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
 ***
 &nbsp;    
 &nbsp;   
