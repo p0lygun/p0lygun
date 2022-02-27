@@ -1,4 +1,4 @@
->It's supposed to be automatic, but actually you have to push this button. -John Brunner
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 &nbsp;    
 &nbsp;   
