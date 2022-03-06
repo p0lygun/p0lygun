@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 &nbsp;    
 &nbsp;   
