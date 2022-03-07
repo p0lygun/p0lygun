@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
