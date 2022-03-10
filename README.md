@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 &nbsp;    
 &nbsp;   
