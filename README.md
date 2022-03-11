@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 &nbsp;    
 &nbsp;   
