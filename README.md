@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 &nbsp;    
 &nbsp;   
