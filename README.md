@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 &nbsp;    
 &nbsp;   
