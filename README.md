@@ -21,6 +21,7 @@
 &nbsp;   
 &nbsp;   
 &nbsp;
+[gala](https://discord.com/users/338947895665360898) on Discord
 ## TODO:- 
 ```mermaid
 journey
@@ -36,5 +37,4 @@ journey
       Start Working on BFReport: 5: p0lygun
       Release Version V1.0 for Nwidgets: 5: p0lygun
 ```
-[gala](https://discord.com/users/338947895665360898) on Discord
 
