@@ -1,7 +1,7 @@
 name: programming quotes generator
 
 on:
-  # Run workflow based on specific schedule
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
