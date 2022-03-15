@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
