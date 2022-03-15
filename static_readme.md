@@ -3,7 +3,7 @@
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
 - Slowing working towards GSoC
-- Trying to matain a journal
+- Trying to maintain a journal
 - Working on Bfportal, BFReport, Nwidgets
 
 &nbsp;    
