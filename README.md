@@ -1,9 +1,9 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
 - Slowing working towards GSoC
-- Trying to matain a journal
+- Trying to maintain a journal
 - Working on Bfportal, BFReport, Nwidgets
 
 &nbsp;    
