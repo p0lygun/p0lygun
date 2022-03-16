@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
