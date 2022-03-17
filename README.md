@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
