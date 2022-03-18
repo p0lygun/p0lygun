@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
