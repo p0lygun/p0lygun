@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
