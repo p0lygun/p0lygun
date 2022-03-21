@@ -1,4 +1,4 @@
->The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
+>Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
