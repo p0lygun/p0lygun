@@ -1,4 +1,4 @@
->Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
