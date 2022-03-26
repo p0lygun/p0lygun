@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
