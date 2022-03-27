@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
 ***
 ### Currenty i am 
 - preparing for exams that starts from 22nd of march 😭
