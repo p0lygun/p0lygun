@@ -1,7 +1,7 @@
 
 ***
 ### Currenty i am 
-- preparing for exams that starts from 22nd of march 😭
+- Exmas going on, will be free on 4th of april 😭
 - Slowing working towards GSoC
 - Trying to maintain a journal
 - Working on Bfportal, BFReport, Nwidgets
