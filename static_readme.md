@@ -22,19 +22,21 @@
 &nbsp;   
 &nbsp;
 [gala](https://discord.com/users/338947895665360898) on Discord
-## TODO:- 
+## Things I aim to Complete in 2022 :- 
 ```mermaid
 journey
-    title Things I aim to Complete in 2022 
-    section March
-      Get good marks in exams: 5: p0lygun
-      Ready Bfportal for production : 5: p0lygun
-      Release v1.0 of Wallpaper Engine: 5: p0lygun
-    section April
-      Complete application for GSoC: 5: p0lygun
-      Depoly BFportal to production: 5: p0lygun
-      Start live user tests on BFPortal: 5: p0lygun
-      Start Working on BFReport: 5: p0lygun
-      Release Version V1.0 for Nwidgets: 5: p0lygun
+      Start exercising:5:April 
+      Complete application for GSoC: 5: April
+      Depoly BFportal to production: 5: April
+      Start Working on BFReport: 5: April
+      Release Version V1.0 for Nwidgets: 5: April
+```
+```mermaid
+journey
+    Join Gym:5:May
+    Learn Neural Networks: 5: May
+    Advanced C/C++: 5: May
+    DS/Algorithims:5:May
+    Make a TODO (web?) app:5:May
 ```
 
