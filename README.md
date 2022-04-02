@@ -1,4 +1,4 @@
->It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty i am 
 - Exams going on, will be free on 4th of april 😭
