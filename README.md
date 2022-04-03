@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty i am 
 - Exams going on, will be free on 4th of april 😭
