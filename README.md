@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
 ***
 ### Currenty i am 
 - Exams going on, will be free on 4th of april 😭
