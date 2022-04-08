@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>So much technology, so little talent. -Vernor Vinge
 ***
 ### Currenty i am 
 - Exams going on, will be free on 4th of april 😭
