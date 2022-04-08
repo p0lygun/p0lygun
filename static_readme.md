@@ -1,8 +1,7 @@
 
 ***
 ### Currenty i am 
-- Exams going on, will be free on 4th of april 😭
-- Slowing working towards GSoC
+- Making proposal for GSoC 
 - Trying to maintain a journal
 - Working on Bfportal, BFReport, Nwidgets
 
