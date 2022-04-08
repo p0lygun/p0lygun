@@ -1,8 +1,7 @@
->So much technology, so little talent. -Vernor Vinge
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty i am 
-- Exams going on, will be free on 4th of april 😭
-- Slowing working towards GSoC
+- Making proposal for GSoC 
 - Trying to maintain a journal
 - Working on Bfportal, BFReport, Nwidgets
 
