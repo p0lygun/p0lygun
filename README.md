@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>The art challenges the technology, and the technology inspires the art. -John Lasseter
 ***
 ### Currenty i am 
 - Making proposal for GSoC 
