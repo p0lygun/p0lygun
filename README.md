@@ -1,4 +1,4 @@
->The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 ### Currenty i am 
 - Making proposal for GSoC 
