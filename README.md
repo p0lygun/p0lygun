@@ -1,4 +1,4 @@
->TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty i am 
 - Making proposal for GSoC 
