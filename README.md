@@ -1,9 +1,10 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
 ***
-### Currenty i am 
-- Making proposal for GSoC 
-- Trying to maintain a journal
-- Working on Bfportal, BFReport, Nwidgets
+### Currenty I am 
+- Waiting for GSoC's Result 🤞
+- Trying to go to college 😢
+- Trying to maintain a journal 🙂
+- Working on Bfportal, BFReport, Nwidgets 🧑‍🏭
 
 &nbsp;    
 &nbsp;   
