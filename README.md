@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 ### Currenty i am 
 - Making proposal for GSoC 
