@@ -1,9 +1,10 @@
 
 ***
-### Currenty i am 
-- Making proposal for GSoC 
-- Trying to maintain a journal
-- Working on Bfportal, BFReport, Nwidgets
+### Currenty I am 
+- Waiting for GSoC's Result 🤞
+- Trying to go to college 😢
+- Trying to maintain a journal 🙂
+- Working on Bfportal, BFReport, Nwidgets 🧑‍🏭
 
 &nbsp;    
 &nbsp;   
