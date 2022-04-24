@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
