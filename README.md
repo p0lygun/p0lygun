@@ -1,4 +1,4 @@
->Technology is the campfire around which we tell our stories. -Laurie Anderson
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
