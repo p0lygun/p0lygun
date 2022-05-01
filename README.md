@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
