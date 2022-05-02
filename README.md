@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. -Don DeLillo
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
