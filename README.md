@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
