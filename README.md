@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
