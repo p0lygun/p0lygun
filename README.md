@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
