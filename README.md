@@ -1,4 +1,4 @@
->Technology is anything that wasn't around when you were born. -Man Ray
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
