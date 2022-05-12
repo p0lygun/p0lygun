@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
