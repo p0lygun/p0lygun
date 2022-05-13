@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
