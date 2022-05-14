@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
