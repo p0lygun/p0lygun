@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
