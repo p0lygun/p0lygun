@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
