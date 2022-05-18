@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
