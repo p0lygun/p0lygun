@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
