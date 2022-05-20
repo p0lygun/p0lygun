@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>Technology is anything that wasn't around when you were born. -Man Ray
 ***
 ### Currenty I am 
 - Waiting for GSoC's Result 🤞
