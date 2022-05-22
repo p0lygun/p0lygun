@@ -1,7 +1,6 @@
->First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure. -Douglas Adams
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 ### Currenty I am 
-- Waiting for GSoC's Result 🤞
 - Trying to go to college 😢
 - Trying to maintain a journal 🙂
 - Working on Bfportal, BFReport, Nwidgets 🧑‍🏭
@@ -23,14 +22,7 @@
 &nbsp;
 [gala](https://discord.com/users/338947895665360898) on Discord
 ## Things I aim to Complete in 2022 :- 
-```mermaid
-journey
-      Start exercising:5:April 
-      Complete application for GSoC: 5: April
-      Depoly BFportal to production: 5: April
-      Start Working on BFReport: 5: April
-      Release Version V1.0 for Nwidgets: 5: April
-```
+
 ```mermaid
 journey
     Join Gym:5:May
@@ -38,5 +30,7 @@ journey
     Advanced C/C++: 5: May
     DS/Algorithims:5:May
     Make a TODO (web?) app:5:May
+    Deploy Bfportal to real web:5:May
 ```
+
 
