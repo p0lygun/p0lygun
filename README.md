@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty I am 
 - Trying to go to college 😢
