@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 ### Currenty I am 
 - Trying to go to college 😢
