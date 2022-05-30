@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty I am 
 - Trying to go to college 😢
