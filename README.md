@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
