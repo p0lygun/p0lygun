@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty I am 
 - Trying to go to college 😢
