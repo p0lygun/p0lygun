@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
