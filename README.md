@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
 ***
 ### Currenty I am 
 - Trying to go to college 😢
