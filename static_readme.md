@@ -25,12 +25,12 @@
 
 ```mermaid
 journey
-    Join Gym:5:May
-    Learn Neural Networks: 5: May
-    Advanced C/C++: 5: May
-    DS/Algorithims:5:May
-    Make a TODO (web?) app:5:May
-    Deploy Bfportal to real web:5:May
+    Prepare for exams:5:June
+    Learn Neural Networks: 5: June
+    Advanced C/C++: 5: June
+    DS/Algorithims:5:June
+    Make a TODO (web?) app:5:June
+    Deploy Bfportal to real web:5:June
 ```
 
 
