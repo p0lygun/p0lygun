@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
