@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty I am 
 - Trying to go to college 😢
