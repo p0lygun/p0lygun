@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
