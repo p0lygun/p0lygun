@@ -1,4 +1,4 @@
->It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
+>So much technology, so little talent. -Vernor Vinge
 ***
 ### Currenty I am 
 - Trying to go to college 😢
