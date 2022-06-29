@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Technology is anything that wasn't around when you were born. -Man Ray
 ***
 ### Currenty I am 
 - Trying to go to college 😢
