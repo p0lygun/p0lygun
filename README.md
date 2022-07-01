@@ -1,4 +1,4 @@
->Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 ### Currenty I am 
 - Trying to go to college 😢
