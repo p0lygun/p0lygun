@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty I am 
 - Trying to go to college 😢
