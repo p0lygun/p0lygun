@@ -1,4 +1,4 @@
->Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
