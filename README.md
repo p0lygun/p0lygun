@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
