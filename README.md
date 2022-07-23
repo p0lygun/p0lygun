@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
