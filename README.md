@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
 ***
 ### Currenty I am 
 - Trying to go to college 😢
