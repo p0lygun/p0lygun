@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
