@@ -1,4 +1,4 @@
->Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty I am 
 - Trying to go to college 😢
