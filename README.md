@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
