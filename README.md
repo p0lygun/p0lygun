@@ -1,4 +1,4 @@
->Technology is teaching us to be human again. -Simon Mainwaring
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Trying to go to college 😢
