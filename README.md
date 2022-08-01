@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
 ***
 ### Currenty I am 
 - Trying to go to college 😢
