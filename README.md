@@ -1,4 +1,4 @@
->We are stuck with technology when what we really want is just stuff that works. -Douglas Adams
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
