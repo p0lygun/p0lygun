@@ -1,4 +1,4 @@
->It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
