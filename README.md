@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
