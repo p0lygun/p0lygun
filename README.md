@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
