@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 ### Currenty I am 
 - Trying to go to college 😢
