@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty I am 
 - Trying to go to college 😢
