@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 ### Currenty I am 
 - Trying to go to college 😢
