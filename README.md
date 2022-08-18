@@ -1,4 +1,4 @@
->It's supposed to be automatic, but actually you have to push this button. -John Brunner
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty I am 
 - Trying to go to college 😢
