@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 ### Currenty I am 
 - Trying to go to college 😢
