@@ -1,4 +1,4 @@
->Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
+>Technology has to be invented or adopted. -Jared Diamond
 ***
 ### Currenty I am 
 - Trying to go to college 😢
