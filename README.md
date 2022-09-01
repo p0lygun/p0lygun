@@ -1,4 +1,4 @@
->The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
