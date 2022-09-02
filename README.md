@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>Technology is anything that wasn't around when you were born. -Man Ray
 ***
 ### Currenty I am 
 - Trying to go to college 😢
