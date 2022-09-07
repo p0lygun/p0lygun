@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
