@@ -1,4 +1,4 @@
->Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 ### Currenty I am 
 - Trying to go to college 😢
