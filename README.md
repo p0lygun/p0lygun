@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty I am 
 - Trying to go to college 😢
