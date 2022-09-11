@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
