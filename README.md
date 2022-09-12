@@ -1,4 +1,4 @@
->It's supposed to be automatic, but actually you have to push this button. -John Brunner
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
