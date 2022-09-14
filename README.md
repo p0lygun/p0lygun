@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 ### Currenty I am 
 - Trying to go to college 😢
