@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty I am 
 - Trying to go to college 😢
