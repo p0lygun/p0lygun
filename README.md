@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
