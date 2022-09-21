@@ -1,4 +1,4 @@
->The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty I am 
 - Trying to go to college 😢
