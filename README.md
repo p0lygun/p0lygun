@@ -1,4 +1,4 @@
->Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
