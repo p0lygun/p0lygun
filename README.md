@@ -1,4 +1,4 @@
->If you can't explain it simply, you don't understand it well enough. -Albert Einstein
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 ### Currenty I am 
 - Trying to go to college 😢
