@@ -1,4 +1,4 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
 ***
 ### Currenty I am 
 - Trying to go to college 😢
