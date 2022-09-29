@@ -1,4 +1,4 @@
->Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
+>Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
 ***
 ### Currenty I am 
 - Trying to go to college 😢
