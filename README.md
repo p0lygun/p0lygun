@@ -1,4 +1,4 @@
->Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe. -Alan Watts
+>The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
 ***
 ### Currenty I am 
 - Trying to go to college 😢
