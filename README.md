@@ -1,4 +1,4 @@
->Computers are useless. They can only give you answers. -Pablo Picasso
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
