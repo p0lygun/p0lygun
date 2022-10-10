@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty I am 
 - Trying to go to college 😢
