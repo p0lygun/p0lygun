@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
