@@ -1,4 +1,4 @@
->This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. -Don DeLillo
+>All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
