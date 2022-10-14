@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
