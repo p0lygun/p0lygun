@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
