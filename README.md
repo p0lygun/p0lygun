@@ -1,4 +1,4 @@
->Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works. -John Cleese
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
