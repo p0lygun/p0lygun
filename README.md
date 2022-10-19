@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
