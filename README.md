@@ -1,4 +1,4 @@
->If you can't explain it simply, you don't understand it well enough. -Albert Einstein
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
