@@ -1,4 +1,4 @@
->Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 ### Currenty I am 
 - Trying to go to college 😢
