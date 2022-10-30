@@ -1,4 +1,4 @@
->Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
+>Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
