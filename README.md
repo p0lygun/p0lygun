@@ -1,4 +1,4 @@
->Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create. -Albert Einstein
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 ### Currenty I am 
 - Trying to go to college 😢
