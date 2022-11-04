@@ -1,4 +1,4 @@
->This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. -Don DeLillo
+>Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
 ***
 ### Currenty I am 
 - Trying to go to college 😢
