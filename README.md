@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
