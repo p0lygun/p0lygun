@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 ### Currenty I am 
 - Trying to go to college 😢
