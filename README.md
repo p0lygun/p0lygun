@@ -1,4 +1,4 @@
->Technology is anything that wasn't around when you were born. -Man Ray
+>Any sufficiently advanced technology is equivalent to magic. -Arthur C. Clarke
 ***
 ### Currenty I am 
 - Trying to go to college 😢
