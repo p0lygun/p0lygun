@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
