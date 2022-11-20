@@ -1,4 +1,4 @@
->Technology is anything that wasn't around when you were born. -Man Ray
+>Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
 ***
 ### Currenty I am 
 - Trying to go to college 😢
