@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
