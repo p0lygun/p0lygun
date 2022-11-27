@@ -1,4 +1,4 @@
->Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. -Steve Jobs
+>I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
 ***
 ### Currenty I am 
 - Trying to go to college 😢
