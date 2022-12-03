@@ -1,4 +1,4 @@
->The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
