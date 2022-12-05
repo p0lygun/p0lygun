@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. -Stewart Brand
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty I am 
 - Trying to go to college 😢
