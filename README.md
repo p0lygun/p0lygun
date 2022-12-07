@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. -Stewart Brand
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 ### Currenty I am 
 - Trying to go to college 😢
