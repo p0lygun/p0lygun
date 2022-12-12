@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 ### Currenty I am 
 - Trying to go to college 😢
