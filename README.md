@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>The real problem is not whether machines think but whether men do. -B. F. Skinner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
