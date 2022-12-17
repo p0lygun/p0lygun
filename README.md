@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 ### Currenty I am 
 - Trying to go to college 😢
