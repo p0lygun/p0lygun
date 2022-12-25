@@ -1,4 +1,4 @@
->One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
