@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
 ***
 ### Currenty I am 
 - Trying to go to college 😢
