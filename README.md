@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty I am 
 - Trying to go to college 😢
