@@ -1,4 +1,4 @@
->Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty I am 
 - Trying to go to college 😢
