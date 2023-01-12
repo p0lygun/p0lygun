@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
 ***
 ### Currenty I am 
 - Trying to go to college 😢
