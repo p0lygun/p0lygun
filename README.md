@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
