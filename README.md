@@ -1,4 +1,4 @@
->The human spirit must prevail over technology. -Albert Einstein
+>Technology is the campfire around which we tell our stories. -Laurie Anderson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
