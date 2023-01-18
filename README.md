@@ -21,16 +21,16 @@
 &nbsp;   
 &nbsp;
 [gala](https://discord.com/users/338947895665360898) on Discord
-## Things I aim to Complete in 2022 :- 
-
 ```mermaid
 journey
-    Prepare for exams:5:July
-    Learn Neural Networks: 5: July
-    Advanced C/C++: 5: July
-    DS/Algorithims:5:July
-    Make a TODO (web?) app:5:July
-    Deploy Bfportal to real web:5:July
+    DS/Algorithims:5:2023
+    Better Health:5:2023
+    Freelancing:5:2023
 ```
-
-
+```mermaid
+journey
+    Start Youtube Channel:5:February
+    Learn Neural Networks: 5:February 
+    Project in Rust:5:February
+    bfportal.gg v2:5:February  
+```
