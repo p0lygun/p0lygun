@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>Ethics change with technology. -Larry Niven
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -32,5 +32,7 @@ journey
     Start Youtube Channel:5:February
     Learn Neural Networks: 5:February 
     Project in Rust:5:February
+    bfportal.gg v2:5:February  
+```in Rust:5:February
     bfportal.gg v2:5:February  
 ```
