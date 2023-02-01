@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
