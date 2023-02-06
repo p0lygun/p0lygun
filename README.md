@@ -1,4 +1,4 @@
->As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer. -James Gleick
+>Ethics change with technology. -Larry Niven
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -25,6 +25,17 @@
 journey
     DS/Algorithims:5:2023
     Better Health:5:2023
+    Freelancing:5:2023
+```
+```mermaid
+journey
+    Start Youtube Channel:5:February
+    Learn Neural Networks: 5:February 
+    Project in Rust:5:February
+    bfportal.gg v2:5:February  
+```in Rust:5:February
+    bfportal.gg v2:5:February  
+```2023
     Freelancing:5:2023
 ```
 ```mermaid
