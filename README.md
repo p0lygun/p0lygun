@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
 ***
 ### Currenty I am 
 - Trying to go to college 😢
