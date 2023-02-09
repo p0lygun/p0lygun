@@ -1,4 +1,4 @@
->TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
+>The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
 ***
 ### Currenty I am 
 - Trying to go to college 😢
