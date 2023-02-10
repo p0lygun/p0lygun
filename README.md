@@ -1,4 +1,4 @@
->The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -43,6 +43,10 @@ journey
     Start Youtube Channel:5:February
     Learn Neural Networks: 5:February 
     Project in Rust:5:February
+    bfportal.gg v2:5:February  
+```in Rust:5:February
+    bfportal.gg v2:5:February  
+```ect in Rust:5:February
     bfportal.gg v2:5:February  
 ```in Rust:5:February
     bfportal.gg v2:5:February  
