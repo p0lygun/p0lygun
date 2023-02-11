@@ -1,4 +1,4 @@
->It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
+>If you can't explain it simply, you don't understand it well enough. -Albert Einstein
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -50,4 +50,5 @@ journey
     bfportal.gg v2:5:February  
 ```in Rust:5:February
     bfportal.gg v2:5:February  
+```bruary  
 ```
