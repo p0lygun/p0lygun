@@ -1,4 +1,4 @@
->The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom. -William Hurt
+>It is through science that we prove, but through intuition that we discover. -Henri Poincaré
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -47,6 +47,11 @@ journey
 ```in Rust:5:February
     bfportal.gg v2:5:February  
 ```ect in Rust:5:February
+    bfportal.gg v2:5:February  
+```in Rust:5:February
+    bfportal.gg v2:5:February  
+```bruary  
+```ust:5:February
     bfportal.gg v2:5:February  
 ```in Rust:5:February
     bfportal.gg v2:5:February  
