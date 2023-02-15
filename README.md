@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. -Stewart Brand
+>Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -55,5 +55,7 @@ journey
     bfportal.gg v2:5:February  
 ```in Rust:5:February
     bfportal.gg v2:5:February  
+```bruary  
+```ruary  
 ```bruary  
 ```
