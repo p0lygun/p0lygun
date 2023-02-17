@@ -1,4 +1,4 @@
->It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -57,5 +57,7 @@ journey
     bfportal.gg v2:5:February  
 ```bruary  
 ```ruary  
+```bruary  
+```y  
 ```bruary  
 ```
