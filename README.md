@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
 ***
 ### Currenty I am 
 - Trying to go to college 😢
