@@ -1,4 +1,4 @@
->Just because something doesn't do what you planned it to do doesn't mean it's useless. -Thomas Edison
+>The great myth of our times is that technology is communication. -Libby Larsen
 ***
 ### Currenty I am 
 - Trying to go to college 😢
@@ -58,6 +58,9 @@ journey
 ```bruary  
 ```ruary  
 ```bruary  
+```y  
+```bruary  
+```
 ```y  
 ```bruary  
 ```
