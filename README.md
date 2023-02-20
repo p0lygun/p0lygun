@@ -33,34 +33,4 @@ journey
     Learn Neural Networks: 5:February 
     Project in Rust:5:February
     bfportal.gg v2:5:February  
-```in Rust:5:February
-    bfportal.gg v2:5:February  
-```2023
-    Freelancing:5:2023
-```
-```mermaid
-journey
-    Start Youtube Channel:5:February
-    Learn Neural Networks: 5:February 
-    Project in Rust:5:February
-    bfportal.gg v2:5:February  
-```in Rust:5:February
-    bfportal.gg v2:5:February  
-```ect in Rust:5:February
-    bfportal.gg v2:5:February  
-```in Rust:5:February
-    bfportal.gg v2:5:February  
-```bruary  
-```ust:5:February
-    bfportal.gg v2:5:February  
-```in Rust:5:February
-    bfportal.gg v2:5:February  
-```bruary  
-```ruary  
-```bruary  
-```y  
-```bruary  
-```
-```y  
-```bruary  
 ```
