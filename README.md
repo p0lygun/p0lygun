@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
