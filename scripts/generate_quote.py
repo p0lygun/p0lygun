@@ -15,6 +15,7 @@ def write_to_readme(quote):
         data = file.read().split("***", maxsplit=1)
         file.seek(0)
         file.write(quote.strip() + "\n***\n" + data[-1].strip())
+        file.truncate()
 
 
 
