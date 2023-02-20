@@ -1,4 +1,4 @@
->The great myth of our times is that technology is communication. -Libby Larsen
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 ### Currenty I am 
 - Trying to go to college 😢
