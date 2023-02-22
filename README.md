@@ -1,4 +1,4 @@
->The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 ### Currenty I am 
 - Trying to go to college 😢
