@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty I am 
 - Trying to go to college 😢
