@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
 ***
 ### Currenty I am 
 - Trying to go to college 😢
