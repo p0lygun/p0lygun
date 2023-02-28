@@ -1,4 +1,4 @@
->The most technologically efficient machine that man has ever invented is the book. -Northrop Frye
+>Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
 ***
 ### Currenty I am 
 - Trying to go to college 😢
