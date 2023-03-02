@@ -1,4 +1,4 @@
->This is why I loved technology: if you used it right, it could give you power and privacy. -Cory Doctorow
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
