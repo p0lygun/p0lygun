@@ -1,4 +1,4 @@
->The real problem is not whether machines think but whether men do. -B. F. Skinner
+>Communications tools don't get socially interesting until they get technologically boring. -Clay Shirky
 ***
 ### Currenty I am 
 - Trying to go to college 😢
