@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn't work yet. -Douglas Adams
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty I am 
 - Trying to go to college 😢
