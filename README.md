@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 ### Currenty I am 
 - Trying to go to college 😢
