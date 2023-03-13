@@ -1,4 +1,4 @@
->Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
+>The real danger is not that computers will begin to think like men, but that men will begin to think like computers. -Sydney J. Harris
 ***
 ### Currenty I am 
 - Trying to go to college 😢
