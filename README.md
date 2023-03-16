@@ -1,4 +1,4 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. -Don DeLillo
 ***
 ### Currenty I am 
 - Trying to go to college 😢
