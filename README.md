@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
 ***
 ### Currenty I am 
 - Trying to go to college 😢
