@@ -1,4 +1,4 @@
->Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
+>It's supposed to be automatic, but actually you have to push this button. -John Brunner
 ***
 ### Currenty I am 
 - Trying to go to college 😢
