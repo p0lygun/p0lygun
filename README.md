@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Computers are useless. They can only give you answers. -Pablo Picasso
 ***
 ### Currenty I am 
 - Trying to go to college 😢
