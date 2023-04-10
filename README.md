@@ -30,10 +30,10 @@
 <p><a href="https://ko-fi.com/gala_vs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gala_vs" /></a></p><br><br>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p0lygun&show_icons=true&locale=en&layout=compact" alt="p0lygun" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p0lygun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="p0lygun" /></p>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p0lygun&show_icons=true&locale=en" alt="p0lygun" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p0lygun&show_icons=true&locale=en&theme=tokyonight" alt="p0lygun" /></p>  
 
 
 ```mermaid
