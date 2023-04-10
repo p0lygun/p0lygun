@@ -29,8 +29,8 @@ journey
 ```
 ```mermaid
 journey
-    Start Youtube Channel:5:February
-    Learn Neural Networks: 5:February 
-    Project in Rust:5:February
-    bfportal.gg v2:5:February  
+    Start Youtube Channel:5:Jan-Jun
+    Learn Neural Networks: 5:Jan-Jun
+    Project in Rust:5:Jan-Jun
+    bfportal.gg v2:5:Jan-Jun  
 ```
