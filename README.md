@@ -1,4 +1,4 @@
->This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. -Don DeLillo
+>All this modern technology just makes people try to do everything at once. -Bill Watterson
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
