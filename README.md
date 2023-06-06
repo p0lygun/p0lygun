@@ -1,4 +1,4 @@
->Technology is anything that wasn't around when you were born. -Man Ray
+>Technology made large populations possible; large populations now make technology indispensable. -Joseph Wood Krutch
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
