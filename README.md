@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
