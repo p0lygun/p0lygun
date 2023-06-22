@@ -1,4 +1,4 @@
->As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer. -James Gleick
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
