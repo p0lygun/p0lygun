@@ -1,4 +1,4 @@
->The art challenges the technology, and the technology inspires the art. -John Lasseter
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
