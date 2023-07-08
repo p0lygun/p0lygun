@@ -1,4 +1,4 @@
->Technology is a word that describes something that doesn't work yet. -Douglas Adams
+>TV and the Internet are good because they keep stupid people from spending too much time out in public. -Douglas Coupland
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
