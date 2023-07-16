@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Django and Backend development**
 
-- 📫 How to reach me **gala_vs#4315**
+- 📫 How to reach me **gala_vs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
