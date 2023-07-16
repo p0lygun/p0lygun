@@ -32,20 +32,17 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p0lygun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="p0lygun" /></p>  
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p0lygun&show_icons=true&locale=en&theme=tokyonight" alt="p0lygun" /></p>  
-
-
 ```mermaid
 journey
     DS/Algorithims:5:2023
+    YouTube:5:2023
     Better Health:5:2023
     Freelancing:5:2023
 ```
 ```mermaid
 journey
-    Start Youtube Channel:5:Jan-Jun
-    Learn Neural Networks: 5:Jan-Jun
-    Project in Rust:5:Jan-Jun
-    bfportal.gg v2:5:Jan-Jun  
+    Start Youtube Channel:5:July-Nov
+    Learn Neural Networks: 5:July-Nov
+    Project in Rust:5:July-Nov
+    bfportal.gg v2:5:July-Nov
 ```
