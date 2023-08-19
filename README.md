@@ -1,4 +1,4 @@
->All of our technology is completely unnecessary to a happy life. -Tom Hodgkinson
+>Programs must be written for people to read, and only incidentally for machines to execute. -Hal Abelson
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
