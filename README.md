@@ -1,4 +1,4 @@
->Computers are like bikinis. They save people a lot of guesswork. -Sam Ewing
+>Great ideas often receive violent opposition from mediocre minds. -Albert Einstein
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
