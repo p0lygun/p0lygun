@@ -1,4 +1,4 @@
->Ethics change with technology. -Larry Niven
+>Technology is teaching us to be human again. -Simon Mainwaring
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
