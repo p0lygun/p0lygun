@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/gala_vs" target="blank"><img src="https://img.shields.io/twitter/follow/gala_vs?logo=twitter&style=for-the-badge" alt="gala_vs" /></a> </p>
 
+- Intern at [@LetsDive](https://github.com/DiveHQ)
+  
 - 🔭 I’m currently working on [Battlefield Portal Library](https://github.com/battlefield-portal-community/bfportal.gg)
 
 - 🌱 I’m currently learning **Deep Learning and Rust**
