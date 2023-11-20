@@ -1,4 +1,4 @@
->Technology presumes there's just one right way to do things and there never is. -Robert M. Pirsig
+>Technological progress has merely provided us with more efficient means for going backwards. -Aldous Huxley
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
