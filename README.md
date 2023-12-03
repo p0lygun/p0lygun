@@ -1,4 +1,4 @@
->It is through science that we prove, but through intuition that we discover. -Henri Poincaré
+>So much technology, so little talent. -Vernor Vinge
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
