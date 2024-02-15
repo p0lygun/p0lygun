@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
 
-<p align="left"> <a href="https://twitter.com/gala_vs" target="blank"><img src="https://img.shields.io/twitter/follow/gala_vs?logo=twitter&style=for-the-badge" alt="gala_vs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vibhakarsolanki" target="blank"><img src="https://img.shields.io/twitter/follow/vibhakarsolanki?logo=twitter&style=for-the-badge" alt="Vibhakar Solanki's Twitter" /></a> </p>
 
 - Intern at [@LetsDive](https://github.com/DiveHQ)
   
@@ -31,20 +31,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/gala_vs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gala_vs" /></a></p><br><br>
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p0lygun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="p0lygun" /></p>  
-
 ```mermaid
 journey
-    DS/Algorithims:5:2023
-    YouTube:5:2023
-    Better Health:5:2023
-    Freelancing:5:2023
+    DS/Algorithims:5:2024
+    YouTube:5:2024
+    Better Health:5:2024
+    Freelancing:5:2024
 ```
 ```mermaid
 journey
-    Start Youtube Channel:5:July-Nov
-    Learn Neural Networks: 5:July-Nov
-    Project in Rust:5:July-Nov
-    bfportal.gg v2:5:July-Nov
+    Work on Youtube Channel:5:Jan-Dec
+    Learn Computer Systems: 5:Jan-Jun
+    Projects in Rust:5:Jan-Jun
+    bfportal.gg and gaming:5:Jan-Dec
 ```
