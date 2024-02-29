@@ -1,4 +1,4 @@
->Humanity is acquiring all the right technology for all the wrong reasons. -Buckminster Fuller
+>The human spirit must prevail over technology. -Albert Einstein
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
