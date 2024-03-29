@@ -1,4 +1,4 @@
->Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. -Stewart Brand
+>Technology… the knack of so arranging the world that we don't have to experience it. -Max Frisch
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
