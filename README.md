@@ -1,4 +1,4 @@
->To invent, you need a good imagination and a pile of junk. -Thomas Edison
+>It has become appallingly obvious that our technology has exceeded our humanity. -Albert Einstein
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
