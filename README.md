@@ -1,4 +1,4 @@
->All this modern technology just makes people try to do everything at once. -Bill Watterson
+>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. -Elbert Hubbard
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
