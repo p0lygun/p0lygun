@@ -1,4 +1,4 @@
->I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. -Kurt Vonnegut
+>Science and technology revolutionize our lives, but memory, tradition and myth frame our response. -Arthur M. Schlesinger Jr.
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
