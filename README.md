@@ -1,4 +1,4 @@
->The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
