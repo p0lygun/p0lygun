@@ -1,4 +1,4 @@
->Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. -Carrie Snow
+>Technology is a word that describes something that doesn't work yet. -Douglas Adams
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
