@@ -1,4 +1,4 @@
->The ultimate promise of technology is to make us master of a world that we command by the push of a button. -Volker Grassmuck
+>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. -Eckhart Tolle
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
