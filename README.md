@@ -1,4 +1,4 @@
->Technology has to be invented or adopted. -Jared Diamond
+>Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. -Stewart Brand
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
