@@ -26,7 +26,7 @@ def main() -> None:
         ">",
         quote_response.get('quote', 'Sleep is the ultimate debugger'),
         " -",
-        quote_response.get('author	', 'Vibhakar Solanki')
+        quote_response.get('author', 'Vibhakar Solanki')
     ]
     # print(quote)
     write_to_readme(''.join(quote_parts))
