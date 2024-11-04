@@ -1,4 +1,4 @@
->Nine-tenths of wisdom is being wise in time. -Theodore Roosevelt
+>Honesty is the first chapter in the book of wisdom. -Thomas Jefferson
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
