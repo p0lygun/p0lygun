@@ -1,4 +1,4 @@
->Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values. -Sidney Hook
+>To study and not think is a waste. To think and not study is dangerous. -Confucius
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
