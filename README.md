@@ -1,4 +1,4 @@
->Nine-tenths of wisdom is being wise in time. -Theodore Roosevelt
+>Learn all you can from the mistakes of others. You won't have time to make them all yourself. -Alfred Sheinwold
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
