@@ -1,4 +1,4 @@
->People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. -Johann Wolfgang von Goethe
+>A good decision is based on knowledge and not on numbers. -Plato
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
