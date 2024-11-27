@@ -1,4 +1,4 @@
->It is a characteristic of wisdom not to do desperate things. -Henry David Thoreau
+>The road of excess leads to the palace of wisdom. -William Blake
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
