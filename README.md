@@ -1,4 +1,4 @@
->If you would take, you must first give, this is the beginning of intelligence. -Laozi
+>To conquer fear is the beginning of wisdom. -Bertrand Russell
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
