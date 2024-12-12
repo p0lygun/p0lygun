@@ -1,4 +1,4 @@
->Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values. -Sidney Hook
+>Skill to do comes of doing. -Ralph Waldo Emerson
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
