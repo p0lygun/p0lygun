@@ -1,4 +1,4 @@
->In wisdom gathered over time I have found that every experience is a form of exploration. -Ansel Adams
+>To acquire knowledge, one must study; but to acquire wisdom, one must observe. -Marilyn vos Savant
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
