@@ -1,4 +1,4 @@
->Education costs money.  But then so does ignorance. -Sir Claus Moser
+>The most certain sign of wisdom is cheerfulness. -Michel de Montaigne
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
