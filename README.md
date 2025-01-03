@@ -1,4 +1,4 @@
->Wisdom is knowing what to do next; Skill is knowing how to do it, and Virtue is doing it. -David Jordan
+>Your attitude, not your aptitude, will determine your altitude. -Zig Ziglar
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
