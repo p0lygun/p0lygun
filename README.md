@@ -1,4 +1,4 @@
->Life is a travelling to the edge of knowledge, then a leap taken. -Laurence J. Peter
+>Education costs money.  But then so does ignorance. -Sir Claus Moser
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
