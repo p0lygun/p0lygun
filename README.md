@@ -1,4 +1,4 @@
->The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge. -Daniel J. Boorstin
+>It is a miracle that curiosity survives formal education. -Albert Einstein
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
