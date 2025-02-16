@@ -1,4 +1,4 @@
->Nine-tenths of wisdom is being wise in time. -Theodore Roosevelt
+>The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge. -Daniel J. Boorstin
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
