@@ -1,4 +1,4 @@
->Mistakes are the usual bridge between inexperience and wisdom. -Phyllis Grissim-Theroux
+>Ignorance and bungling with love are better than wisdom and skill without. -Henry David Thoreau
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
