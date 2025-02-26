@@ -1,4 +1,4 @@
->Learn all you can from the mistakes of others. You won't have time to make them all yourself. -Alfred Sheinwold
+>Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? -George Eliot
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
