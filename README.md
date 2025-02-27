@@ -1,4 +1,4 @@
->Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? -George Eliot
+>Life is a travelling to the edge of knowledge, then a leap taken. -Laurence J. Peter
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
