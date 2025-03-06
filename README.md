@@ -1,4 +1,4 @@
->The greater our knowledge increases the more our ignorance unfolds. -John F. Kennedy
+>If you would take, you must first give, this is the beginning of intelligence. -Laozi
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
