@@ -1,4 +1,4 @@
->Where there is charity and wisdom, there is neither fear nor ignorance. -Francis of Assisi
+>Wisdom has never made a bigot, but learning has. -Josh Billings
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
