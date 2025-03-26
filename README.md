@@ -1,4 +1,4 @@
->A little knowledge that acts is worth infinitely more than much knowledge that is idle. -Kahlil Gibran
+>The beginning of knowledge is the discovery of something we do not understand. -Frank Herbert
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
