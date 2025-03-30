@@ -1,4 +1,4 @@
->Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins. -Jim Rohn
+>Mistakes are the usual bridge between inexperience and wisdom. -Phyllis Grissim-Theroux
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
