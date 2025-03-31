@@ -1,4 +1,4 @@
->Mistakes are the usual bridge between inexperience and wisdom. -Phyllis Grissim-Theroux
+>To study and not think is a waste. To think and not study is dangerous. -Confucius
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
