@@ -1,4 +1,4 @@
->Life is a learning experience, only if you learn. -Yogi Berra
+>Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. -Francis of Assisi
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
