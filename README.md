@@ -1,4 +1,4 @@
->Education costs money.  But then so does ignorance. -Sir Claus Moser
+>To acquire knowledge, one must study; but to acquire wisdom, one must observe. -Marilyn vos Savant
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
