@@ -1,4 +1,4 @@
->To acquire knowledge, one must study; but to acquire wisdom, one must observe. -Marilyn vos Savant
+>Your attitude, not your aptitude, will determine your altitude. -Zig Ziglar
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
