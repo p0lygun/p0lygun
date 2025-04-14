@@ -1,4 +1,4 @@
->Ignorance and bungling with love are better than wisdom and skill without. -Henry David Thoreau
+>Skill to do comes of doing. -Ralph Waldo Emerson
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
