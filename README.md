@@ -1,4 +1,4 @@
->Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? -George Eliot
+>Your attitude, not your aptitude, will determine your altitude. -Zig Ziglar
 ***
 <h1 align="center">Hi 👋, I'm Vibhakar Solanki</h1>
 <h3 align="center">A passionate full stack developer, learning data science and AI these days</h3>
